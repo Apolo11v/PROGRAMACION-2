@@ -22,7 +22,7 @@ public class Problema1 {
             numeros[min] = temp;
         }
         c.detener();
-        System.out.println("Tiempo: " + c.lapsoDeTiempo() + " milisegundos");
+
+        System.out.println("Tiempo: " + c.lapsoDeTiempo()+" MILISEGUNDOS");
     }
-    
 }
